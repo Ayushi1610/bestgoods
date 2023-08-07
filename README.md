@@ -10,10 +10,14 @@ We employ MySQL, a popular relational database management system, to store and m
 Payment Gateway.
 
 Now, let's explore how we use these technologies to implement all CRUD operations in our eCommerce website:
-# Create(C)- Adding New Products.
-# Read(R)- Viewing Product Catalog, Viewing Product Details.
-# Update(U)- Editing Product Information.
-# Delete(D)- Removing Products.
+# Create(C)- 
+Adding New Products.
+# Read(R)- 
+Viewing Product Catalog, Viewing Product Details.
+# Update(U)- 
+Editing Product Information.
+# Delete(D)- 
+Removing Products.
 
 With a user-friendly interface, robust backend, and reliable database management, our eCommerce website is ready to transform the way users shop online. Happy shopping!
 
